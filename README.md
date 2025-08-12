@@ -1,4 +1,8 @@
-# British Airways | Customer Experience Analytics 
+# British Airways – Customer Experience & Service Quality Dashboard
+
+An interactive **Tableau** dashboard analyzing British Airways customer feedback, service ratings, and operational efficiency to identify trends, strengths, and improvement areas.
+
+
 
 **Overview**
 
@@ -15,6 +19,10 @@ The **British Airways Customer Experience Analytics Dashboard** provides compreh
 * **Primary Source:** Customer review platform data and flight experience surveys.
 * **Data Coverage:** March 2016 - October 2023, covering multiple aircraft types, routes, and service categories.
 * **Data Cleaning Steps:** Standardized rating scales, removed incomplete reviews, validated geographic data, and normalized aircraft classifications.
+
+**Tech Stack**
+- **Tableau** – Data visualization and interactive dashboard creation
+- **Excel/CSV** – Data cleaning and preprocessing
 
 **Key Metrics (KPIs)**
 1. **Overall Rating:** `4.2/5`
@@ -54,4 +62,7 @@ Quick overview of ratings across cabin service, entertainment, food, ground serv
 * Implement regional service standardization programs.
 * Leverage Boeing 747 best practices across other aircraft types.
 
+Link to preview: <a href="https://public.tableau.com/views/BritishAirwaysReview_17546168887060/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Dashboard Preview<a/>
+
   
+
